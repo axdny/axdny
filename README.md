@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés Dalmau</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **javascript and nodejs**
+- 🌱 I’m currently learning **javascript & CSS**
 
 - 📫 How to reach me **dalmau.andres@gmail.com**
 
