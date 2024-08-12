@@ -1,9 +1,5 @@
 <h1>Hola, soy Andrés 👋 </h1>
-<h3>Estudiando desarrollo web desde Argentina.</h3>
-
-💾 Buscando mis primeras experiencias laborales en el mundo del desarrollo.
-
-💾 Actualmente aprendiendo **React.**
+<h3>QA trainee.</h3>
 
 <hr>
 
