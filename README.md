@@ -39,10 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="30" alt="msdos logo"  />
 </div>
 
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/axdny/axdny/output/snake.svg" alt="Snake animation" />
 
 ###
