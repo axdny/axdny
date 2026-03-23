@@ -55,13 +55,10 @@ I specialize in **API test automation**, **responsive UI testing**, and **databa
 
 | Project | Description | Tech | Status |
 |--------|-------------|------|--------|
-| [🔬 VeriPoint API Tests](https://github.com/axdny) | End-to-end API test framework for a .NET Framework → .NET Core migration. Dual API testing, JSON schema validation, performance benchmarking and Allure reporting. | Playwright · Cucumber · TypeScript · AJV | ![Active](https://img.shields.io/badge/Active-2EAD33?style=flat-square) |
-| [📄 CV](https://github.com/axdny/CV) | Personal CV built with HTML | HTML | ![Done](https://img.shields.io/badge/Done-0077B5?style=flat-square) |
-| [🎵 Bot-de-Queen](https://github.com/axdny/Bot-de-Queen) | Twitter bot that automatically tweets Queen song lyrics | Python | ![Done](https://img.shields.io/badge/Done-0077B5?style=flat-square) |
+| [🔬 API Tests](https://github.com/axdny) | End-to-end API test framework for a .NET Framework → .NET Core migration. Dual API testing, JSON schema validation, performance benchmarking and Allure reporting. | Playwright · Cucumber · TypeScript · AJV | ![Active](https://img.shields.io/badge/Active-2EAD33?style=flat-square) |
 | [🔍 Buscador-Musical](https://github.com/axdny/Buscador-Musical) | Music search web app | HTML | ![Done](https://img.shields.io/badge/Done-0077B5?style=flat-square) |
-| [🌐 mooki_dalmau](https://github.com/axdny/mooki_dalmau) | Final project — Corderhouse web development bootcamp | HTML | ![Done](https://img.shields.io/badge/Done-0077B5?style=flat-square) |
-| [⚛️ mooki_dalmau_react](https://github.com/axdny/mooki_dalmau_react) | React version of the personal site | JavaScript · React | ![Done](https://img.shields.io/badge/Done-0077B5?style=flat-square) |
-| [🎮 visualizador-de-pokemones](https://github.com/axdny/visualizador-de-pokemones) | Pokémon viewer consuming the PokéAPI | HTML | ![Done](https://img.shields.io/badge/Done-0077B5?style=flat-square) |
+| [🌐 Mooki](https://github.com/axdny/mooki_dalmau) | Final project — Corderhouse web development bootcamp | HTML | ![Done](https://img.shields.io/badge/Done-0077B5?style=flat-square) |
+| [⚛️ Mooki react](https://github.com/axdny/mooki_dalmau_react) | React version of the personal site | JavaScript · React | ![Done](https://img.shields.io/badge/Done-0077B5?style=flat-square) |
 
 ### 🔜 Coming Soon
 
