@@ -58,12 +58,12 @@ I specialize in **API test automation**, **responsive UI testing**, and **databa
 | [🔍 Buscador-Musical](https://github.com/axdny/Buscador-Musical) | Music search web app | HTML | ![Done](https://img.shields.io/badge/Done-0077B5?style=flat-square) |
 | [🌐 Mooki](https://github.com/axdny/mooki_dalmau) | Final project — Corderhouse web development bootcamp | HTML | ![Done](https://img.shields.io/badge/Done-0077B5?style=flat-square) |
 | [⚛️ Mooki react](https://github.com/axdny/mooki_dalmau_react) | React version of the personal site | JavaScript · React | ![Done](https://img.shields.io/badge/Done-0077B5?style=flat-square) |
+| [🧪 QA-showcase](https://github.com/axdny/QA-showcase) | Portfolio framework with API contracts, migration checks, mobile coverage, Cucumber and CI | Playwright · TypeScript · Cucumber | ![CI](https://github.com/axdny/QA-showcase/actions/workflows/ci.yml/badge.svg) |
 
 ### 🔜 Coming Soon
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🧪 QA Portfolio Site | Personal site showcasing QA projects, automation reports and performance analyses | HTML · CSS · JS |
 | 📊 k6 Load Testing Suite | Load testing scripts for API performance validation before production cutover | k6 · JavaScript |
 
 ---
