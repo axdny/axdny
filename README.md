@@ -4,8 +4,6 @@
 
 I'm a QA Automation Engineer focused on building reliable, scalable test frameworks that actually catch bugs before users do. I work at the intersection of quality, development and DevOps — making sure software ships with confidence.
 
-Currently working at **Kopius Inc.** on a large-scale .NET API migration project, designing and maintaining an end-to-end automation framework for API contract and performance testing.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adalmau27)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdny)
 
